@@ -734,3 +734,30 @@ a {
 .cid-sv2s5qx6PJ .justify-content-center {
   align-items: center;
 }
+.cid-sv2K2dNj8C {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #47b5ed;
+}
+.cid-sv2K2dNj8C .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-sv2K2dNj8C .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-sv2K2dNj8C .mbr-iconfont {
+  padding-left: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
+  color: #6592e6;
+}
+.cid-sv2K2dNj8C .panel-body,
+.cid-sv2K2dNj8C .card-header {
+  padding: 1rem 0;
+}
+.cid-sv2K2dNj8C .panel-title-edit {
+  color: #000000;
+}

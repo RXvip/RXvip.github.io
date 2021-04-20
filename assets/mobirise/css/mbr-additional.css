@@ -761,3 +761,39 @@ a {
 .cid-sv2K2dNj8C .panel-title-edit {
   color: #000000;
 }
+.cid-sv34HtXuOr {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sv34HtXuOr .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-sv34HtXuOr .card-wrapper {
+  padding: 3rem;
+  background: #fafafa;
+  border-radius: 4px;
+}
+@media (max-width: 992px) {
+  .cid-sv34HtXuOr .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sv34HtXuOr .card-wrapper {
+    padding: 3rem 1rem;
+  }
+}
+.cid-sv34HtXuOr .mbr-section-title {
+  text-align: center;
+  color: #ff9966;
+}
+.cid-sv34HtXuOr .mbr-section-subtitle {
+  color: #ff6666;
+}
+.cid-sv34HtXuOr .card-title {
+  color: #2299aa;
+}
